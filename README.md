@@ -227,57 +227,57 @@
 </tr><tr><th align="right" scope="row">
 				<strong>4B1</strong></th>
 <td>
-				Housekeeper verifies that the laundry item is not clean.</td>
+				Горничная проверяет, что белье не чистое.</td>
 </tr><tr><th align="right" scope="row">
 				<strong>4B2</strong></th>
 <td>
-				Housekeeper rewashes the laundry item</td>
+				Горничная перестирывает белье.</td>
 </tr><tr><th align="right" scope="row">
-				<strong>Termination outcome</strong></th>
+				<strong>Termination outcome - Исход прекращения.</strong></th>
 <td>
-				Dirty laundry is rewashed.</td>
+				Грязное белье стирается повторно.</td>
 </tr></tbody></table><h4>
-	<strong>Alternative flow 4C: Laundry item shrank.</strong></h4>
+	<strong>Alternative flow 4C: Альтернативный вариант 4C: Белье село.</strong></h4>
 <table><tbody><tr><th align="right" scope="row">
 				<strong>Description</strong></th>
 <td>
-				This scenario describes the situation where the laundry item shrank.</td>
+				TЭтот сценарий описывает ситуацию, когда предмет белья село.</td>
 </tr><tr><th align="right" scope="row">
 				<strong>4C1</strong></th>
 <td>
-				Housekeeper verifies that the laundry item shrank</td>
+				Горничная проверяет, что предмет для стирки село.</td>
 </tr><tr><th align="right" scope="row">
 				<strong>4C2</strong></th>
 <td>
-				Housekeeper disposes of laundry item.</td>
+				Горничная выбрасывает белье.</td>
 </tr><tr><th align="right" scope="row">
-				<strong>Termination outcome</strong></th>
+				<strong>Termination outcome - Исход прекращения.</strong></th>
 <td>
-				Laundry item no longer exists.</td>
+				Товар для стирки больше не существует.</td>
 </tr></tbody></table><h4>
-	<strong>Alternative flow 5A: Laundry item needs hanger.</strong></h4>
+	<strong>Alternative flow 5A: Для белья нужна вешалка.</strong></h4>
 <table><tbody><tr><th align="right" scope="row">
-				<strong>Description</strong></th>
+				<strong>Description - Описание.</strong></th>
 <td>
-				This scenario describes the situation where the laundry item needs to be hung instead of folded.</td>
+				Этот сценарий описывает ситуацию, когда белье нужно повесить, а не сложить.</td>
 </tr><tr><th align="right" scope="row">
 				<strong>5A1</strong></th>
 <td>
-				Housekeeper verifies that laundry item needs hanging.</td>
+				Горничная проверяет, нужно ли повесить белье.</td>
 </tr><tr><th align="right" scope="row">
 				<strong>5A2</strong></th>
 <td>
-				Housekeeper puts laundry item on a hanger.</td>
+				Горничная кладет белье на вешалку.</td>
 </tr><tr><th align="right" scope="row">
-				<strong>Termination outcome</strong></th>
+				<strong>Termination outcome - Исход прекращения.</strong></th>
 <td>
-				Laundry that needs hanging is hung up.</td>
-</tr></tbody></table><p><strong>Post conditions:</strong> All laundry clean and folded or hung up.</p>
-<p><strong>Business Rules:</strong></p>
+				Белье, которое нужно повесить, вешается.</td>
+</tr></tbody></table><p><strong>Post conditions- Условия поста:</strong> Все белье чистое и сложенное или развешенное.</p>
+<p><strong>Business Rules -Бизнес правила:</strong></p>
 <ul><li>
-		Laundry can only be done on Wednesdays.</li>
+		Стирка возможна только по средам.</li>
 <li>
-		All ironed laundry items get hung on hangers</li>
+		Все выглаженное белье вешается на плечики.</li>
 <li>
-		Any laundry item that is irrevocably soiled, shrunken, scorched, etc. , gets thrown out.</li>
+		Любое белье, которое безвозвратно загрязнилось, село, обгорело и т. д., выбрасывается.</li>
 </ul></div></div></div>
