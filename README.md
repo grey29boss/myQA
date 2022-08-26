@@ -6,3 +6,4 @@
 ____
 
 + #### [1. Use case example](use_case_example.md)
++ #### [2. Soft Skills](soft-skills.md)
