@@ -5,10 +5,10 @@ ____
 
 Перевод автоматом, но всё равно понятно. Пример основан на работе стирки белья)))
 	
-+ [Преимущества вариантов использования](https://github.com/grey29boss/myQA/blob/main/use case example.md#преимущества-вариантов-использования)
-+ [Элементы варианта использования](https://github.com/grey29boss/myQA/blob/main/use case example.md#элементы-варианта-использования)
-+ [Как написать сценарий использования](https://github.com/grey29boss/myQA/edit/main/use case example.md#как-написать-сценарий-использования)
-+ [Примеры использования](https://github.com/grey29boss/myQA/edit/main/use case example.md#примеры-использования)
++ [Преимущества вариантов использования](https://github.com/grey29boss/myQA/blob/main/use_case_example.md#преимущества-вариантов-использования)
++ [Элементы варианта использования](https://github.com/grey29boss/myQA/blob/main/use_case_example.md#элементы-варианта-использования)
++ [Как написать сценарий использования](https://github.com/grey29boss/myQA/edit/main/use_case_example.md#как-написать-сценарий-использования)
++ [Примеры использования](https://github.com/grey29boss/myQA/edit/main/use_case_example.md#примеры-использования)
 		
 
 ## Случаи применения.
